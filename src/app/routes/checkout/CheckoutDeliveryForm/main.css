@@ -1,0 +1,37 @@
+
+.checkout--delivery-form-container {
+
+    width: 70%;
+    float: left;
+    clear: both;
+    margin-top: 2rem;
+}
+
+.checkout--delivery-form-container form {
+  
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+.checkout--delivery-form--segment {
+
+    height: 50;
+    width: 100%;
+}
+
+.checkout--delivery-form-container label {
+
+    width: 25%;
+    float: left;
+}
+
+.checkout--delivery-form-container input {
+
+    width: 75%;
+    margin-bottom: 0.4rem;
+    padding: 0.6rem;
+    font-size: 0.8rem;
+    float: right;
+
+}

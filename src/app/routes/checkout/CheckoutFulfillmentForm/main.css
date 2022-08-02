@@ -1,0 +1,52 @@
+
+
+.checkout--fulfill-container {
+
+    float: right;
+    width: 30%;
+    border: 1px solid black;
+    margin-top: 3rem;
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
+.big-green-button button {
+
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+    background-color: limegreen;
+    font-size: 2rem;
+    border: none;
+}
+
+.checkout--fulfill-container--price-summary {
+
+    /* text-align: center; */
+    /* font-size: 2rem; */
+    margin-bottom: 1rem;
+}
+
+table, td, th {
+    border-bottom: 1px solid lightgray;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 0.6rem;
+    box-sizing: border-box;
+}
+
+td:nth-child(2) {
+
+    text-align: right;
+}
+
+table {
+    width: 100%;
+    /* width: 20rem; */
+}
+
+.checkout--order-total {
+
+    color: green;
+    font-size: 1.2rem;
+}

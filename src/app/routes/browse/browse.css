@@ -1,0 +1,34 @@
+
+.error {
+
+    font-size: 1.2rem;
+    font-family: arial;
+    color: crimson;
+    
+}
+
+button.checkout {
+
+    width: 28rem;
+    
+}
+
+.order-summary-container {
+
+    /* width: 10%; */
+
+}
+
+.products-container {
+
+    width: 100%;
+
+}
+
+@media screen and (max-device-width:800px) {
+
+    .browse-navigation-container {
+        display: none;
+    }
+    
+}

@@ -1,0 +1,106 @@
+* {
+
+    /* font-family: sans-serif; */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12.5px;
+    /* box-sizing: border-box; */
+    /* --HUE_PRIMARY: 157; */
+    /* --SATURATION_PRIMARY: 90%; */
+    /* --BRIGHTNESS_PRIMARY: 23%; */
+
+    /* --background-color-1: 	hsl( */
+        /* var(--HUE_PRIMARY),  */
+        /* var(--SATURATION_PRIMARY),  */
+        /* var(--BRIGHTNESS_PRIMARY) */
+    /* ); */
+
+    --primary: hsl(157, 90%, 23%);
+    --primary-lighter: hsl(157, 90%, 29%);
+    --primary-lightest: hsl(157, 90%, 42%);
+    /* --personal: #7CAA6E; */
+    --white: #FCFBF6;
+
+    --secondary: hsl(53, 47%, 73%);
+
+    /* --background-color-1: 	hsl(157, 90%, 23%); */
+    /* #067048; */
+    /* --background-color-1-darker-1: hsl(157, 90%, 18%); */
+    --background-color-1-lighter-3: hsl(157, 80%, 56%);
+    --background-color-2: #187B44;
+    --background-color-3: #7CAA6E;
+    --background-color-4: #DBD39B;
+    --background-color-5: #FCFBF6;
+    --font-primary: #FCFBF6;
+    
+    --highlight-1-light: rgba(212, 175, 55);
+    --highlight-1-dark: darkgoldenrod;
+
+}
+
+html {
+
+    /* font-size: 12px; */
+
+}
+
+a {
+
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    color: black;
+    /* display: inline-block; */
+}
+
+
+body {
+    margin: 0px;
+    margin-top:120px;
+    /* font-size: 1em; */
+    
+}
+
+.main {
+
+    
+
+}
+
+.main-content-container {
+
+    margin: auto;
+    margin-top: 1rem;
+    max-width: 1200;
+    padding-left: 1rem;
+
+}
+
+.clearfix {
+
+    clear: both;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+    font-size: 1rem;
+    margin: 0;
+    color: inherit;
+}
+
+
+/* h2 {
+
+    margin-bottom: 0.6rem;
+    
+}
+
+h3 {
+    margin-bottom: 0.4rem;
+    margin-top: 0.6rem;
+} */
+
+
+
+
